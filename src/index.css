@@ -1,5 +1,5 @@
 @import-normalize; /* bring in normalize.css styles */
-
+@import './components/Feedback/Feedback-module.css';
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
